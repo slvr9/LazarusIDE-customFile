@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="9">
+      <Names Count="1">
+        <Item1 Value="In0k_lazColorSheme"/>
+      </Names>
+      <Globals Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="16645629" Foreground="clBlack"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue" FrameEdges="sfeBottom"/>
+          <ahaTextBlock Background="clNavy" Foreground="clWhite"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <ahaFoldedCode Background="clWhite" Foreground="clSilver" FrameColor="clSilver"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaTopInfoHint Background="clActiveCaption" Foreground="clBlack" FrameColor="clMaroon" FrameStyle="slsDashed" FrameEdges="sfeBottom"/>
+          <ahaBracketMatch Background="clYellow" Foreground="8404992" FrameColor="clRed" Style="fsBold" StyleMask="fsBold"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Foreground="clGreen" FrameColor="59900"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaLineHighlight Background="14680049"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia"/>
+          <ahaExecutionPoint Background="clGray" Foreground="clWhite"/>
+          <ahaSyncroEditArea Background="clMoneyGreen"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaCodeFoldingTree Background="clWhite" Foreground="clSilver"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaSyncroEditOther FrameColor="9744532"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clBlack"/>
+          <ahaIncrementalSearch Background="3199088" Foreground="clWhite"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen"/>
+          <ahaTemplateEditOther FrameColor="clMaroon"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack"/>
+          <ahaDisabledBreakpoint Background="clGreen" Foreground="clBlack"/>
+        </SchemeIn0k_lazColorSheme>
+      </Globals>
+      <LangObjectPascal Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+          <Number Foreground="16744448"/>
+          <String Foreground="16384" FrameColor="clMoneyGreen" FrameStyle="slsDashed"/>
+          <Symbol Foreground="33023" Style="fsBold"/>
+          <Comment Foreground="clGray"/>
+          <Assembler Foreground="clGreen"/>
+          <Directive Foreground="clRed" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Case_label Foreground="clGreen" FrameStyle="slsDashed" Style="fsItalic"/>
+          <IDE_Directive Background="16774388" Foreground="11625315" FrameStyle="slsDotted"/>
+          <Reserved_word Foreground="12615680" Style="fsBold,fsItalic"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Key Style="fsBold"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Text Foreground="clBlack" Style="fsBold"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Element_Name Foreground="clMaroon" Style="fsBold"/>
+          <CDATA_Section Foreground="clOlive" Style="fsItalic"/>
+          <Attribute_Name Foreground="clMaroon"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <Attribute_Value Foreground="clNavy" Style="fsBold"/>
+          <DOCTYPE_Section Foreground="clBlue" Style="fsItalic"/>
+          <ahaLineHighlight Background="clNone"/>
+          <Entity_Reference Foreground="clBlue" Style="fsBold"/>
+          <Processing_Instruction Foreground="clBlue"/>
+          <Namespace_Attribute_Name Foreground="clRed"/>
+          <Namespace_Attribute_Value Foreground="clRed" Style="fsBold"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangXML_document>
+      <LangHTML_document Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Value Foreground="16744448"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Identifier Style="fsBold"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangHTML_document>
+      <LangC__ Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Assembler Foreground="clGreen"/>
+          <ahaDefault Background="clWhite"/>
+          <Preprocessor Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangC__>
+      <LangPerl Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clNavy"/>
+          <Pragma Style="fsBold"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Variable Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangPerl>
+      <LangJava Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Documentation Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Variable Foreground="clPurple"/>
+          <ahaDefault Background="clWhite"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Float Foreground="clBlue"/>
+          <Octal Foreground="clBlue"/>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Hexadecimal Foreground="clBlue"/>
+          <SyntaxError Foreground="clRed"/>
+          <Documentation Foreground="clBlue" Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+          <Non_reserved_keyword Foreground="clNavy" Style="fsBold"/>
+          <System_functions_and_variables Style="fsBold"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangPython>
+      <LangPHP Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangPHP>
+      <LangSQL Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Function Style="fsBold"/>
+          <Data_type Style="fsBold"/>
+          <Exception Style="fsItalic"/>
+          <ahaDefault Background="clWhite"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+          <Default_packages Style="fsBold"/>
+          <SQL_Plus_command Style="fsBold"/>
+          <Reserved_word__PL_SQL_ Style="fsBold"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangSQL>
+      <LangJavascript Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Number Foreground="clNavy"/>
+          <String Foreground="clBlue"/>
+          <Symbol Foreground="clRed"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <Reserved_word Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangJavascript>
+      <LangDiff_File Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <ahaDefault Background="clWhite"/>
+          <Unknown_word Style="fsItalic"/>
+          <Diff_New_File Background="clGreen" Style="fsBold"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <Diff_Added_line Foreground="clGreen"/>
+          <ahaLineHighlight Background="clNone"/>
+          <Diff_Changed_Line Foreground="clPurple"/>
+          <Diff_Chunk_Marker Style="fsBold"/>
+          <Diff_Removed_Line Foreground="clRed"/>
+          <Diff_Original_File Background="clRed" Style="fsBold"/>
+          <Diff_Chunk_Line_Counts Foreground="clPurple" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Foreground="clGreen" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Foreground="clRed" Style="fsBold"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Key Style="fsBold"/>
+          <Number Foreground="clBlue"/>
+          <Comment Foreground="clNavy" Style="fsItalic"/>
+          <Variable Foreground="clGreen"/>
+          <ahaDefault Background="clWhite"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Section Style="fsBold"/>
+          <ahaDefault Background="clWhite"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </LangINI_file>
+      <Langpo_language_files Version="9">
+        <SchemeIn0k_lazColorSheme>
+          <Key Style="fsBold"/>
+          <Flags Foreground="clTeal"/>
+          <String Foreground="clFuchsia"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaDefault Background="clWhite"/>
+          <Identifier Foreground="clGreen" Style="fsBold"/>
+          <Previous_value Foreground="clOlive" Style="fsItalic"/>
+          <ahaBracketMatch Background="clNone" Foreground="clNone" FrameColor="clNone" StyleMask=""/>
+          <ahaLineHighlight Background="clNone"/>
+        </SchemeIn0k_lazColorSheme>
+      </Langpo_language_files>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
